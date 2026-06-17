@@ -1,4 +1,2 @@
-Welcome to Eviltendo!
-
-Eviltendo is a group of people commited to making homebrew projects primarily for Nintendo consoles.
-Here you'll find: Morris's Big Button Game, EvilChat, unShop and more!
+EvilChat is a carbon copy of AuroraChat that aims to make your experience as worse as possible!
+Featuring the worst background music, buggy UI, errors, the whole lot that will make you want to quit!
